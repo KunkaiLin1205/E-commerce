@@ -1,9 +1,9 @@
-package com.luv2code.ecommerce.config;
+package com.klproject.ecommerce.config;
 
-import com.luv2code.ecommerce.entity.Country;
-import com.luv2code.ecommerce.entity.Product;
-import com.luv2code.ecommerce.entity.ProductCategory;
-import com.luv2code.ecommerce.entity.State;
+import com.klproject.ecommerce.entity.Country;
+import com.klproject.ecommerce.entity.Product;
+import com.klproject.ecommerce.entity.ProductCategory;
+import com.klproject.ecommerce.entity.State;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
