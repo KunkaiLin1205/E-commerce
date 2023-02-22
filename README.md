@@ -1,2 +1,4 @@
 # E-commerce
-Developed a Full Stack E-commerce application that can search products, process shopping cart check out and track previous orders for logged in users with Angular frontend and Spring Boot backend integration 
+-Developed a Full Stack E-commerce application with Angular frontend and Spring Boot backend integration
+-Implemented the backend to search products by categories or keywords and track previous orders for login users using REST API and MySQL database
+-Built a shopping cart and its corresponding checkout page that can validate the user's inputs using Reactive forms
